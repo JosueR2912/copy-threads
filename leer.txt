@@ -1,0 +1,1 @@
+el set query se ejecuta al abrir el modal de nuevohilo y darle click al boton de publicar
